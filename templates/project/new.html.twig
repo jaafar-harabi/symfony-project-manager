@@ -1,0 +1,11 @@
+{# new.html.twig #}
+{% extends 'base.html.twig' %}
+{% block title %}New project{% endblock %}
+{% block body %}
+<h1>New project</h1>
+{{ form_start(form) }}
+    {{ form_widget(form) }}
+    <button class="btn btn-success mt-2">Save</button>
+{{ form_end(form) }}
+<a href="{{ path('app_project_index') }}" class="btn btn-link mt-2">Back</a>
+{% endblock %}
