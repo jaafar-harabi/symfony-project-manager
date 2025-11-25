@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/jaafar-harabi/symfony-project-manager/compare/v1.0.1...v1.0.2) (2025-11-25)
+
+
+### Bug Fixes
+
+* **deps:** update php dependencies ([7c58cff](https://github.com/jaafar-harabi/symfony-project-manager/commit/7c58cffaa8dcd64948bff72cba77120b9e7ef3f1))
+
 ## [1.0.1](https://github.com/jaafar-harabi/symfony-project-manager/compare/v1.0.0...v1.0.1) (2025-11-16)
 
 
