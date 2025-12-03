@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/jaafar-harabi/symfony-project-manager/compare/v1.0.5...v1.0.6) (2025-12-03)
+
+
+### Bug Fixes
+
+* **deps:** update dependency symfony/maker-bundle to ^1.65.1 ([e406da7](https://github.com/jaafar-harabi/symfony-project-manager/commit/e406da7841816dd77b3ebe56d8ddedede7c00137))
+
 ## [1.0.5](https://github.com/jaafar-harabi/symfony-project-manager/compare/v1.0.4...v1.0.5) (2025-11-30)
 
 
