@@ -4,7 +4,7 @@
     "minimum-stability": "stable",
     "prefer-stable": true,
     "require": {
-        "php": ">=8.5.2",
+        "php": ">=8.5.3",
         "ext-ctype": "*",
         "ext-iconv": "*",
         "doctrine/dbal": "^4",
@@ -17,7 +17,7 @@
         "symfony/flex": "^2",
         "symfony/form": "8.0.4",
         "symfony/framework-bundle": "8.0.5",
-        "symfony/maker-bundle": "^1.65.1",
+        "symfony/maker-bundle": "^1.66.0",
         "symfony/runtime": "8.0.1",
         "symfony/security-bundle": "8.0.4",
         "symfony/twig-bundle": "8.0.4",
