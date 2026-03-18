@@ -4,7 +4,7 @@
     "minimum-stability": "stable",
     "prefer-stable": true,
     "require": {
-        "php": ">=8.5.3",
+        "php": ">=8.5.4",
         "ext-ctype": "*",
         "ext-iconv": "*",
         "doctrine/dbal": "^4",
@@ -17,14 +17,14 @@
         "symfony/flex": "^2",
         "symfony/form": "8.0.6",
         "symfony/framework-bundle": "8.0.6",
-        "symfony/maker-bundle": "^1.66.0",
+        "symfony/maker-bundle": "^1.67.0",
         "symfony/runtime": "8.0.1",
         "symfony/security-bundle": "8.0.6",
         "symfony/twig-bundle": "8.0.4",
         "symfony/validator": "8.0.6",
         "symfony/yaml": "8.0.6",
-        "twig/extra-bundle": "3.23.0",
-        "twig/twig": "3.23.0"
+        "twig/extra-bundle": "3.24.0",
+        "twig/twig": "3.24.0"
     },
     "config": {
         "allow-plugins": {
