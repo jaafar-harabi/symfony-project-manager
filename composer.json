@@ -4,27 +4,27 @@
     "minimum-stability": "stable",
     "prefer-stable": true,
     "require": {
-        "php": ">=8.5.3",
+        "php": ">=8.5.5",
         "ext-ctype": "*",
         "ext-iconv": "*",
         "doctrine/dbal": "^4",
         "doctrine/doctrine-bundle": "^3.2.2",
         "doctrine/doctrine-migrations-bundle": "^4.0.0",
-        "doctrine/orm": "^3.6.2",
+        "doctrine/orm": "^3.6.3",
         "symfony/asset": "8.0.8",
         "symfony/console": "8.0.8",
         "symfony/dotenv": "8.0.8",
         "symfony/flex": "^2",
         "symfony/form": "8.0.8",
         "symfony/framework-bundle": "8.0.8",
-        "symfony/maker-bundle": "^1.66.0",
+        "symfony/maker-bundle": "^1.67.0",
         "symfony/runtime": "8.0.8",
         "symfony/security-bundle": "8.0.8",
         "symfony/twig-bundle": "8.0.8",
         "symfony/validator": "8.0.8",
         "symfony/yaml": "8.0.8",
-        "twig/extra-bundle": "3.23.0",
-        "twig/twig": "3.23.0"
+        "twig/extra-bundle": "3.24.0",
+        "twig/twig": "3.24.0"
     },
     "config": {
         "allow-plugins": {
