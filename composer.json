@@ -10,7 +10,7 @@
         "doctrine/dbal": "^4",
         "doctrine/doctrine-bundle": "^3.2.2",
         "doctrine/doctrine-migrations-bundle": "^4.0.0",
-        "doctrine/orm": "^3.6.4",
+        "doctrine/orm": "^3.6.6",
         "symfony/asset": "8.0.8",
         "symfony/console": "8.0.9",
         "symfony/dotenv": "8.0.9",
@@ -24,7 +24,7 @@
         "symfony/validator": "8.0.10",
         "symfony/yaml": "8.0.10",
         "twig/extra-bundle": "3.24.0",
-        "twig/twig": "3.24.0"
+        "twig/twig": "3.26.0"
     },
     "config": {
         "allow-plugins": {
