@@ -1,3 +1,10 @@
+## [1.0.24](https://github.com/jaafar-harabi/symfony-project-manager/compare/v1.0.23...v1.0.24) (2026-06-28)
+
+
+### Bug Fixes
+
+* **deps:** update php dependencies to v8 ([fefd158](https://github.com/jaafar-harabi/symfony-project-manager/commit/fefd158ced002b048d3665101da758548b91fa9a))
+
 ## [1.0.23](https://github.com/jaafar-harabi/symfony-project-manager/compare/v1.0.22...v1.0.23) (2026-06-24)
 
 
